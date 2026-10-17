@@ -1,0 +1,12 @@
+﻿# Unity/Tuanjie 生成目录
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Build/
+Artifacts/
+*.csproj
+*.sln
+*.user
+.DS_Store

@@ -996,3 +996,13 @@ Made with love by **MEIMAOA**
 [回到顶部](#snakegamewpf)
 
 </div>
+
+---
+
+## 🎮 SnakeGame v9.0.0（正式版）
+
+- 源码目录：SnakeGame-v9.0.0/（Tuanjie/Unity 2022.3 工程）
+- 下载：[Releases](https://github.com/MMA131845/SnakeGameWpf/releases/tag/v9.0.0)
+  - SnakeGame-v9.0.0-Windows64.zip（Windows 64 位）
+  - SnakeGame-v9.0.0-Windows32.zip（Windows 32 位）
+- 内容：贪吃蛇 5 模式（经典 / 计时赛 / 占领 4v4 / 极速 / 撤离·搜打撤）+ 明日方舟式塔防 3D（10 关逐一解锁、技能系统、阻挡机制、敌人动线、Win11 亚克力 UI）
