@@ -4,7 +4,7 @@
 
 **SnakeGame** is a modern Snake game collection with five snake modes and a complete Arknights-style 3D tower defense mode, built with **Unity / Tuanjie 2022.3**. The same codebase ships for **Windows (x64 / x86)**, **Android (arm64-v8a)** and the web (WebGL).
 
-[![Version](https://img.shields.io/badge/version-9.1.0--beta-00b7c3?style=flat-square)](https://github.com/MEIMAOA/SnakeGame/releases)
+[![Version](https://img.shields.io/badge/version-9.1.1--beta-00b7c3?style=flat-square)](https://github.com/MEIMAOA/SnakeGame/releases)
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Android%20%7C%20WebGL-0078D4?style=flat-square)](#platforms-and-downloads)
 [![Engine](https://img.shields.io/badge/engine-Unity%20%2F%20Tuanjie%202022.3-000000?style=flat-square)](https://unity.com/)
 [![License](https://img.shields.io/badge/license-MIT-00cc6a?style=flat-square)](LICENSE)
@@ -36,12 +36,12 @@
 
 | Platform | Package | Notes |
 |---|---|---|
-| Windows x64 | `SnakeGame-9.1.0-beta-Windows64.zip` | Unzip and run `SnakeGame.exe` |
-| Windows x86 | `SnakeGame-9.1.0-beta-Windows32.zip` | For 32-bit Windows |
-| Android | `SnakeGame-9.1.0-beta-Android.apk` | arm64-v8a, Android 8.0 (API 26) or newer |
-| WebGL | `SnakeGame-9.1.0-beta-WebGL.zip` | Static hosting package of the browser build |
+| Windows x64 | `SnakeGame-9.1.1-beta-Windows64.zip` | Unzip and run `SnakeGame.exe` |
+| Windows x86 | `SnakeGame-9.1.1-beta-Windows32.zip` | For 32-bit Windows |
+| Android | `SnakeGame-9.1.1-beta-Android.apk` | arm64-v8a, Android 8.0 (API 26) or newer |
+| WebGL | `SnakeGame-9.1.1-beta-WebGL.zip` | Static hosting package of the browser build |
 
-Download: <https://github.com/MEIMAOA/SnakeGame/releases/tag/v9.1.0-beta>
+Download: <https://github.com/MEIMAOA/SnakeGame/releases/tag/v9.1.1-beta>
 
 ## WebGL Online Play
 

@@ -4,7 +4,7 @@
 
 **SnakeGame** — современный сборник игр «Змейка» с пятью режимами змейки и полноценным 3D-режимом tower defense в стиле Arknights, разработанный на **Unity / Tuanjie 2022.3**. Один и тот же код собирается для **Windows (x64 / x86)**, **Android (arm64-v8a)** и веба (WebGL).
 
-[![Версия](https://img.shields.io/badge/version-9.1.0--beta-00b7c3?style=flat-square)](https://github.com/MEIMAOA/SnakeGame/releases)
+[![Версия](https://img.shields.io/badge/version-9.1.1--beta-00b7c3?style=flat-square)](https://github.com/MEIMAOA/SnakeGame/releases)
 [![Платформы](https://img.shields.io/badge/platforms-Windows%20%7C%20Android%20%7C%20WebGL-0078D4?style=flat-square)](#платформы-и-загрузки)
 [![Движок](https://img.shields.io/badge/engine-Unity%20%2F%20Tuanjie%202022.3-000000?style=flat-square)](https://unity.com/)
 [![Лицензия](https://img.shields.io/badge/license-MIT-00cc6a?style=flat-square)](LICENSE)
@@ -36,12 +36,12 @@
 
 | Платформа | Пакет | Примечание |
 |---|---|---|
-| Windows x64 | `SnakeGame-9.1.0-beta-Windows64.zip` | Распакуйте и запустите `SnakeGame.exe` |
-| Windows x86 | `SnakeGame-9.1.0-beta-Windows32.zip` | Для 32-битной Windows |
-| Android | `SnakeGame-9.1.0-beta-Android.apk` | arm64-v8a, Android 8.0 (API 26) или новее |
-| WebGL | `SnakeGame-9.1.0-beta-WebGL.zip` | Статический пакет браузерной версии |
+| Windows x64 | `SnakeGame-9.1.1-beta-Windows64.zip` | Распакуйте и запустите `SnakeGame.exe` |
+| Windows x86 | `SnakeGame-9.1.1-beta-Windows32.zip` | Для 32-битной Windows |
+| Android | `SnakeGame-9.1.1-beta-Android.apk` | arm64-v8a, Android 8.0 (API 26) или новее |
+| WebGL | `SnakeGame-9.1.1-beta-WebGL.zip` | Статический пакет браузерной версии |
 
-Загрузка: <https://github.com/MEIMAOA/SnakeGame/releases/tag/v9.1.0-beta>
+Загрузка: <https://github.com/MEIMAOA/SnakeGame/releases/tag/v9.1.1-beta>
 
 ## Играть онлайн (WebGL)
 

@@ -4,7 +4,7 @@
 
 **SnakeGame** est une collection moderne de jeux de serpent avec cinq modes de serpent et un mode tower defense 3D complet inspiré d'Arknights, développé avec **Unity / Tuanjie 2022.3**. Le même code source est publié pour **Windows (x64 / x86)**, **Android (arm64-v8a)** et le web (WebGL).
 
-[![Version](https://img.shields.io/badge/version-9.1.0--beta-00b7c3?style=flat-square)](https://github.com/MEIMAOA/SnakeGame/releases)
+[![Version](https://img.shields.io/badge/version-9.1.1--beta-00b7c3?style=flat-square)](https://github.com/MEIMAOA/SnakeGame/releases)
 [![Plateformes](https://img.shields.io/badge/platforms-Windows%20%7C%20Android%20%7C%20WebGL-0078D4?style=flat-square)](#plateformes-et-téléchargements)
 [![Moteur](https://img.shields.io/badge/engine-Unity%20%2F%20Tuanjie%202022.3-000000?style=flat-square)](https://unity.com/)
 [![Licence](https://img.shields.io/badge/license-MIT-00cc6a?style=flat-square)](LICENSE)
@@ -36,12 +36,12 @@
 
 | Plateforme | Paquet | Remarque |
 |---|---|---|
-| Windows x64 | `SnakeGame-9.1.0-beta-Windows64.zip` | Décompresser puis lancer `SnakeGame.exe` |
-| Windows x86 | `SnakeGame-9.1.0-beta-Windows32.zip` | Pour Windows 32 bits |
-| Android | `SnakeGame-9.1.0-beta-Android.apk` | arm64-v8a, Android 8.0 (API 26) ou supérieur |
-| WebGL | `SnakeGame-9.1.0-beta-WebGL.zip` | Paquet statique de la version navigateur |
+| Windows x64 | `SnakeGame-9.1.1-beta-Windows64.zip` | Décompresser puis lancer `SnakeGame.exe` |
+| Windows x86 | `SnakeGame-9.1.1-beta-Windows32.zip` | Pour Windows 32 bits |
+| Android | `SnakeGame-9.1.1-beta-Android.apk` | arm64-v8a, Android 8.0 (API 26) ou supérieur |
+| WebGL | `SnakeGame-9.1.1-beta-WebGL.zip` | Paquet statique de la version navigateur |
 
-Téléchargement : <https://github.com/MEIMAOA/SnakeGame/releases/tag/v9.1.0-beta>
+Téléchargement : <https://github.com/MEIMAOA/SnakeGame/releases/tag/v9.1.1-beta>
 
 ## Jouer en ligne (WebGL)
 

@@ -4,7 +4,7 @@
 
 **SnakeGame** 是一款现代贪吃蛇游戏合集，包含五种贪吃蛇模式与完整的明日方舟式 3D 塔防模式，使用 **Unity / 团结引擎 2022.3** 构建。同一套代码同时发布 **Windows（x64 / x86）**、**Android（arm64-v8a）** 与网页（WebGL）版本。
 
-[![版本](https://img.shields.io/badge/version-9.1.0--beta-00b7c3?style=flat-square)](https://github.com/MEIMAOA/SnakeGame/releases)
+[![版本](https://img.shields.io/badge/version-9.1.1--beta-00b7c3?style=flat-square)](https://github.com/MEIMAOA/SnakeGame/releases)
 [![平台](https://img.shields.io/badge/platforms-Windows%20%7C%20Android%20%7C%20WebGL-0078D4?style=flat-square)](#平台与下载)
 [![引擎](https://img.shields.io/badge/engine-Unity%20%2F%20Tuanjie%202022.3-000000?style=flat-square)](https://unity.com/)
 [![许可证](https://img.shields.io/badge/license-MIT-00cc6a?style=flat-square)](LICENSE)
@@ -36,12 +36,12 @@
 
 | 平台 | 安装包 | 说明 |
 |---|---|---|
-| Windows x64 | `SnakeGame-9.1.0-beta-Windows64.zip` | 解压后运行 `SnakeGame.exe` |
-| Windows x86 | `SnakeGame-9.1.0-beta-Windows32.zip` | 适用于 32 位 Windows |
-| Android | `SnakeGame-9.1.0-beta-Android.apk` | arm64-v8a，Android 8.0（API 26）及以上 |
-| WebGL | `SnakeGame-9.1.0-beta-WebGL.zip` | 浏览器版本的静态托管包 |
+| Windows x64 | `SnakeGame-9.1.1-beta-Windows64.zip` | 解压后运行 `SnakeGame.exe` |
+| Windows x86 | `SnakeGame-9.1.1-beta-Windows32.zip` | 适用于 32 位 Windows |
+| Android | `SnakeGame-9.1.1-beta-Android.apk` | arm64-v8a，Android 8.0（API 26）及以上 |
+| WebGL | `SnakeGame-9.1.1-beta-WebGL.zip` | 浏览器版本的静态托管包 |
 
-下载地址：<https://github.com/MEIMAOA/SnakeGame/releases/tag/v9.1.0-beta>
+下载地址：<https://github.com/MEIMAOA/SnakeGame/releases/tag/v9.1.1-beta>
 
 ## WebGL 在线试玩
 
